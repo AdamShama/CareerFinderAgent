@@ -64,9 +64,10 @@ Each job is fingerprinted and stored locally using SQLite. When a new, unseen jo
 
 ## 📡 Current Companies Tracked
 
-* Forcepoint (Workday)
+* HP 
 * NVIDIA
 * Intel (Workday)
+and you can add any company you like ;-)
 
 ---
 
